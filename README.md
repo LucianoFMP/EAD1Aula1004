@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Byanca Profile</title>
+<title>ByancaProfile</title>
 </head>
 <body>
 
